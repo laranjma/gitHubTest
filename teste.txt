@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 3 matheus matheus 4096 oct.  29 09:36 .
+drwxrwxr-x 3 matheus matheus 4096 oct.  29 09:33 ..
+drwxrwxr-x 7 matheus matheus 4096 oct.  29 09:35 .git
+-rw-rw-r-- 1 matheus matheus    0 oct.  29 09:36 teste.txt
